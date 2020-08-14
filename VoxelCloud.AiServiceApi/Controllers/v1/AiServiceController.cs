@@ -13,7 +13,7 @@ using System.Net;
 namespace VoxelCloud.AiServiceApi.Controllers.v1
 {
     /// <summary>
-    /// 服务接口控制器
+    /// 服务接口控制器 
     /// </summary>
     [ApiVersion("1.0")]
     [Route("api/[controller]")]
