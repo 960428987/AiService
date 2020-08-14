@@ -1,0 +1,235 @@
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 15:53:50,348 [1]
+【信息详情】：Now listening on: http://[::]:8020
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 15:53:50,373 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 15:53:50,376 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 15:53:50,378 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-11 15:55:54,395 [13]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:16:59,237 [1]
+【信息详情】：Now listening on: http://[::]:8020
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:16:59,311 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:16:59,320 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:16:59,329 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:18:39,878 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:18:39,910 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:18:39,914 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:18:39,917 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:20:06,928 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:20:06,969 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:20:06,973 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:20:06,978 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:38:22,827 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:38:22,885 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:38:22,890 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:38:22,895 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-11 16:39:14,286 [10]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:39:14,505 [10]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:39:14,511 [10]
+【信息详情】：ParaModel参数：{"usr":null,"version":null,"stamp":null,"sign":null}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:39:58,575 [12]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:39:58,580 [12]
+【信息详情】：ParaModel参数：{"usr":null,"version":null,"stamp":null,"sign":null}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:54:40,320 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:54:40,367 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:54:40,373 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:54:40,377 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-11 16:54:49,624 [5]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:54:49,829 [5]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:54:49,835 [5]
+【信息详情】：ParaModel参数：{"usr":null,"version":null,"stamp":null,"sign":null}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:57:59,521 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:57:59,595 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:57:59,602 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:57:59,609 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-11 16:58:16,129 [14]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:58:16,310 [14]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 16:58:16,315 [14]
+【信息详情】：ParaModel参数：{"usr":null,"version":null,"stamp":null,"sign":null}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 17:00:30,650 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 17:00:30,695 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 17:00:30,716 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 17:00:30,721 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-11 17:00:46,129 [13]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 17:00:46,315 [13]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-11 17:00:46,320 [13]
+【信息详情】：ParaModel参数：{"usr":null,"version":null,"stamp":null,"sign":null}

@@ -1,0 +1,655 @@
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:52:51,415 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:52:51,477 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:52:51,482 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:52:51,488 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:57:55,070 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:57:55,113 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:57:55,118 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:57:55,123 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:58:37,487 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:58:37,528 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:58:37,533 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 09:58:37,538 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:17,099 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:17,149 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:17,155 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:17,160 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:39,076 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:39,135 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:39,139 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:39,144 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:58,349 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:58,394 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:58,400 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:00:58,405 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:01:22,315 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:01:22,370 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:01:22,374 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:01:22,379 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:02:00,425 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:02:00,468 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:02:00,473 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:02:00,477 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:22:40,924 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:22:40,966 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:22:40,971 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 10:22:40,974 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:02,545 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:02,591 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:02,596 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:02,601 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:56,735 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:56,779 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:56,784 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:11:56,790 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:14:18,349 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:14:18,394 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:14:18,400 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:14:18,404 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 11:14:54,681 [4]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:19:22,347 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:19:22,408 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:19:22,414 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:19:22,418 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 11:20:38,340 [10]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:21:04,570 [15]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:21:04,576 [15]
+【信息详情】：ParaModel参数：{"usr":null,"version":null,"stamp":null,"sign":null}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:21:30,102 [15]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:21:30,106 [15]
+【信息详情】：ParaModel参数：{"usr":null,"version":null,"stamp":null,"sign":null}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:23:01,883 [2]
+【信息详情】：Application is shutting down...
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:26:04,056 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:26:04,132 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:26:04,137 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:26:04,142 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 11:26:49,921 [14]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:34:01,830 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:34:01,877 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:34:01,883 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:34:01,887 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:39:53,905 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:39:53,959 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:39:53,966 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 11:39:53,971 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 11:40:21,892 [17]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:22:10,996 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:22:11,041 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:22:11,046 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:22:11,052 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:22:30,309 [2]
+【信息详情】：Application is shutting down...
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:24:14,762 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:24:14,803 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:24:14,808 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:24:14,813 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 17:25:01,515 [19]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:25:10,967 [19]
+【信息详情】：AddStudyModel参数：{"patientName":"string","age":"string","sex":"string","birthday":"string","inOrOutDate":"string","id":"string","aiID":"string","dataInfo":"string","returnAddr":"string","studyInfo":{"studyID":"string","studyDescription":"string","studyDateTime":"string","modality":"string","studyInstanceUID":"string","studyPath":"string","seriesInfo":[{"seriesInstanceUID":"string","seriesDescription":"string","checkPart":"string","seriesPath":"string","imageCount":0,"imageFileList":"string","sliceThickness":"string","modality":"string"}]}}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:25:10,972 [19]
+【信息详情】：ParaModel参数：{"usr":null,"stamp":null,"sign":null}
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:27:22,672 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:27:22,706 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:27:22,710 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:27:22,714 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:28:17,834 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:28:17,882 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:28:17,887 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:28:17,893 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 17:28:47,928 [14]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:29:34,764 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:29:34,810 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:29:34,814 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:29:34,818 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 17:29:52,784 [4]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:30:40,923 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:30:40,966 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:30:40,971 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:30:40,976 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 17:31:03,105 [15]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:34:12,647 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:34:12,698 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:34:12,704 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:34:12,709 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 17:34:21,017 [11]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:47:02,525 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:47:02,582 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:47:02,589 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:47:02,595 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 17:47:31,951 [16]
+【信息详情】：Failed to determine the https port for redirect.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:47:39,041 [16]
+【信息详情】：请求已过时
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:48:07,154 [10]
+【信息详情】：请求已过时
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:48:39,244 [18]
+【信息详情】：请求已过时
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:48:58,234 [9]
+【信息详情】：请求已过时
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:52:42,632 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:52:42,673 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:52:42,678 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:52:42,683 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:16,828 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:16,888 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:16,900 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:16,907 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:58,810 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:58,856 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:58,860 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-12 17:53:58,869 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\VoxelCloud.AiServiceApi\VoxelCloud.AiServiceApi
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：WARN 
+【记录时间】：2020-08-12 17:54:17,030 [17]
+【信息详情】：Failed to determine the https port for redirect.

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VoxelCloud.AiServiceApi.Model</name>
+    </assembly>
+    <members>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.patientName">
+            <summary>
+            患者姓名
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.age">
+            <summary>
+            患者年龄，备注：24Y：24岁，30M：30个月，200D：200天
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.sex">
+            <summary>
+            患者性别，备注：M:男，F:女,O:其他
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.birthday">
+            <summary>
+            患者出生日期,备注：格式要求yyyy-MM-dd
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.inOrOutDate">
+            <summary>
+            入院/门诊时间,备注：格式要求yyyy-MM-dd HH:mm:ss
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.id">
+            <summary>
+            接口标识,区分影像来自哪个机构
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.aiID">
+            <summary>
+            AI服务ID,Ai服务的唯一标示
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.dataInfo">
+            <summary>
+            数据基本信息
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.returnAddr">
+            <summary>
+            结果回传地址,AI结果回传的地址https://api.pacs.health-100.cn/amol-back/ai/submit-result
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.AddStudyModel.studyInfo">
+            <summary>
+            患者检查信息
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.StudyInfo.studyID">
+            <summary>
+            检查号
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.StudyInfo.studyDescription">
+            <summary>
+            检查信息
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.StudyInfo.studyDateTime">
+            <summary>
+            检查时间,格式要求yyyy-MM-dd HH:mm:ss
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.StudyInfo.modality">
+            <summary>
+            设备类型
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.StudyInfo.studyInstanceUID">
+            <summary>
+            检查唯一标识
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.StudyInfo.studyPath">
+            <summary>
+            检查路径,http://xxxx.xxx.xxx 目前不要使用该路径
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.StudyInfo.seriesInfo">
+            <summary>
+            序列信息
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.seriesInstanceUID">
+            <summary>
+            序列唯一标识
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.seriesDescription">
+            <summary>
+            序列描述
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.checkPart">
+            <summary>
+            检查部位
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.seriesPath">
+            <summary>
+            序列路径,文件完整路径使用
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.imageCount">
+            <summary>
+            图像数量
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.imageFileList">
+            <summary>
+            文件列表,序列下所有文件名，以逗号分隔，文件完整路径使用
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.sliceThickness">
+            <summary>
+            序列层厚
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.SeriesInfo.modality">
+            <summary>
+            设备类型
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.ParaModel.usr">
+            <summary>
+            usr
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.ParaModel.stamp">
+            <summary>
+            时间戳
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.ParaModel.sign">
+            <summary>
+            sign签名
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.ResponseModel.isSuccess">
+            <summary>
+            接口调用是否成功
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.ResponseModel.resultCode">
+            <summary>
+            返回码
+            </summary>
+        </member>
+        <member name="P:VoxelCloud.AiServiceApi.Model.ResponseModel.resultMsg">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+    </members>
+</doc>

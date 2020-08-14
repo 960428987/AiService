@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VoxelCloud.AiServiceApi</name>
+    </assembly>
+    <members>
+        <member name="T:VoxelCloud.AiServiceApi.Controllers.v1.AiServiceController">
+            <summary>
+            服务接口控制器
+            </summary>
+        </member>
+        <member name="M:VoxelCloud.AiServiceApi.Controllers.v1.AiServiceController.#ctor(Microsoft.Extensions.Logging.ILogger{VoxelCloud.AiServiceApi.Controllers.v1.AiServiceController})">
+            <summary>
+            构造函数
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:VoxelCloud.AiServiceApi.Controllers.v1.AiServiceController.AddStudy(VoxelCloud.AiServiceApi.Model.AddStudyModel,VoxelCloud.AiServiceApi.Model.ParaModel)">
+            <summary>
+            添加患者
+            </summary>
+            <param name="model"></param>
+            <param name="paraModel"></param>
+            <returns></returns>
+        </member>
+        <member name="T:VoxelCloud.AiServiceApi.Controllers.WeatherForecastController">
+            <summary>
+            天气控制器
+            </summary>
+        </member>
+        <member name="M:VoxelCloud.AiServiceApi.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{VoxelCloud.AiServiceApi.Controllers.WeatherForecastController})">
+            <summary>
+            天气构造函数
+            </summary>
+            <param name="logger"></param>
+        </member>
+        <member name="M:VoxelCloud.AiServiceApi.Controllers.WeatherForecastController.Get">
+            <summary>
+            获取天气
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:VoxelCloud.AiServiceApi.Controllers.WeatherForecastController.Post">
+            <summary>
+            post请求
+            </summary>
+        </member>
+        <member name="F:VoxelCloud.AiServiceApi.Startup.provider">
+            <summary>
+            Api版本信息
+            </summary>
+        </member>
+    </members>
+</doc>

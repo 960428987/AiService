@@ -1,0 +1,20 @@
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-14 09:59:34,151 [1]
+【信息详情】：Now listening on: http://[::]:8021
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-14 09:59:34,201 [1]
+【信息详情】：Application started. Press Ctrl+C to shut down.
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-14 09:59:34,206 [1]
+【信息详情】：Hosting environment: Development
+
+＝＝＝＝＝＝＝＝＝＝
+【日志级别】：INFO 
+【记录时间】：2020-08-14 09:59:34,211 [1]
+【信息详情】：Content root path: C:\Work\VoxelProjects\AiService\VoxelCloud.AiServiceApi
